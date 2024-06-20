@@ -8,8 +8,9 @@ I am writing to express my interest in the Senior Data Analyst position at the O
 
 My experience aligns with the requirements outlined in the job description. I possess a strong foundation in data analysis and have successfully implemented data pipelines for useful data products in my previous roles (e.g. implementing a website events pipeline in SQL). My proficiency in utilizing Microsoft Azure (DataBricks), SQL and Python enables me to effectively analyze and visualize complex datasets to support informed decision-making.
 
-My educational background in Data Science, combined with hands-on experience in data analysis, equips me with the analytical rigor and strategic mindset necessary to tackle complex problems within the OSA’s remit. For example, I have contributed to many areas of Begin’s data architecture (web analysis, marketing spend, ETL for fulfillment, and others) and look forward to picking up new challenges at any
-I am excited to join an organization with a data-driven culture and feel that my personal values align with OSA’s values of kindness, excellence, transparency, and civic responsibility. 
+My educational background in Data Science, combined with hands-on experience in data analysis, equips me with the analytical rigor and strategic mindset necessary to tackle complex problems within the OSA’s remit. For example, I have contributed to many areas of Begin’s data architecture (web analysis, marketing spend, ETL for fulfillment, and others) and look forward to picking up new challenges at any level
+
+I am excited to join an organization with a data-driven culture and feel that my personal values align with OSA’s values of kindness, transparency, and civic responsibility. 
 
 A challenge I look forward to meeting is ensuring data security as protecting this highly personal information will be extremely important. Other technical challenges like siloed data and unhelpful processes can be worked through and have been present at all of my previous jobs.
 
