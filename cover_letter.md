@@ -20,4 +20,4 @@ Sincerely,
 
 Adam Kleiman
 
-Disclosure: This cover letter was written with the assistance of chatGPT. No nonpublic information was input to the model. See https://github.com/adamsayre/nyps-application to see the breakdown of chatgpt updates and Adam's updates.
+Disclosure: This cover letter was written with the assistance of chatGPT. No nonpublic information was input to the model. See https://github.com/adamsayre/nycps-application to see the breakdown of chatgpt updates and Adam's updates.
